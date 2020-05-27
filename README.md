@@ -16,17 +16,17 @@
 -	Search by microphone input
 
 # Example Screen Design and Wireflows:
-### Example Screen Design:
+### 1. Example Screen Design:
 The first line are examples of the three main screens 1)__Map__, 2)__Resources__, 3)__Q&A__. The bottom line are the examples of each main screen's sub screen.
 ![screen design](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/Example%20frames.png)
-### Wireflow for all interactions:
+### 2. Wireflow for all interactions:
 The frames that are highter than the rest of thier frame groups are the main screen of each feature
 ![wireflow all](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/Wireflow%20All.png)
-### Wireflow for Task 1: Look for Active Confirmed Cases (Map Tool)
+### 3. Wireflow for Task 1: Look for Active Confirmed Cases (Map Tool)
 ![w1](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/Wireflow%201.png)
-### Wireflow for Task 2: Look for Testing Booths Information and Food Delivery Guidance (Resources Tool)
+### 4. Wireflow for Task 2: Look for Testing Booths Information and Food Delivery Guidance (Resources Tool)
 ![w2](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/Wireflow%202.png)
-### Wireflow for Task 3: Look for Mental Health Call Line and Submit a Question (Q&A Tool)
+### 5. Wireflow for Task 3: Look for Mental Health Call Line and Submit a Question (Q&A Tool)
 ![w3](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/Wireflow%203.png)
 
 # Wireflows and Prototypes
