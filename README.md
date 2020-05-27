@@ -43,13 +43,13 @@ https://www.figma.com/proto/tT7DfvhYQKOVcNCD0sJYDX/DH150-AMANDA-RUAN?node-id=1%3
 
 # Inclass and Outside of Class Impression Test
 Besides the in-class impression test with my first version of the prototype with my classmates, I also conducted an impression test outside of the class with a second revised version of the prototype with one of my friends, who also did not know about my project before. In summary, the main feedback from the in-class impression test was on the Resources page as my peers were a little bit confused whether the guidance information is listed by location, and they also wonder what could be done with the filter button. In addition, one classmate also mentioned that the ‘View More’ link was not consistent with other buttons and was not obvious. Another suggestion was on the phrasing of the buttons on my Q&A page as my classmates were confused about what they could do with those buttons. Based on the revised version, the main problem I had was with the Map tool, as the circles that covering the map areas first confused my friend. Another major problem I have was on the line spacing of the text, as the text was dense. Some of the quotes from my peers were listed below:
-#### With the first version:
+#### Quotes with the first version:
 -	“We can access COVID19 information through this app”
 -	“(with the Map tool)… we can check how dense the spread is…(with the Q&A tool)… we can communicate with someone else… and there’s also a resources page…”
 -	“Are the announcements (on the Resources page) listed by location?”
 -	“I really like your color choices and the layout looks symmetrical”
 -	“I’m confused about the live chat and submit button (on the Q&A page), what’s the differences between the two? And also by naming it ‘submit’, it gives an impression that you already finished typing the questions”
-#### With the second version:
+#### Quotes with the second version:
 -	“Why the circles are purple when I first enter the Map page?”
 -	“(Map page) Why there are two circles here? If that indicates the area around you, shouldn’t there be only one circle?”
 -	“(Map page) Three circles are confusing”
