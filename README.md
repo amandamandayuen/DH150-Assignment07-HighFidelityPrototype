@@ -65,10 +65,10 @@ Besides the in-class impression test with my first version of the prototype with
 https://youtu.be/fL9H21XsEjg
 ### Summary:
 I tested the second revised version of the full prototype with two of my friends and screen-recorded one of the walkthroughs as evidence. The cognitive walkthrough gives me valuable feedback on how I should modify certain features to make the interface more accessible to users when they are actually interacting with the system. 
-- 1) For instance, I noticed that both of them tried to press the buttons on the bottom TAP BAR to go back to the main pages, while I only enabled interactions of the bottom TAP BAR on the three main pages MAP, RESOURCES, and Q&A. Therefore, I need to add more interactions to the other pages to make the whole process goes more smoothly. 
-- 2) Moreover, they also said that the feedback given by the filter button on the NAVIGATION BAR on MAP page was not immediate. One of my friends expected immediate change of the view on the map when she clicked on one of the filters, but she did not see any change and got confused. The other friend suggested that if I don’t give immediate feedback, I could add an “apply” button under the filter bar to allow users to know they should click on “apply” before seeing any change on the map.
-- 3) The circles and filters on the MAP page still led to confusion. It might be clearer if I only show one circle at a time or revise the instruction to allow the page makes more sense. For instance, I could say that the default circles are “Cumulative Confirmed” cases and represented neighborhood-level data. I could also include more scale of data available under the filter button, such as cities, states, and nations. 
-- 4) Under Q&A page, I attached one of the “frequently asked question” section on top as the search result of “Mental Health”, the section did not mention mental health in the title and created confusion to my friend as she expected to see the words “Mental Health” as the first searching results. I need to revise the orders of the sections listed on the result page to stick the most relevant section names at top.
+- 1. For instance, I noticed that both of them tried to press the buttons on the bottom TAP BAR to go back to the main pages, while I only enabled interactions of the bottom TAP BAR on the three main pages MAP, RESOURCES, and Q&A. Therefore, I need to add more interactions to the other pages to make the whole process goes more smoothly. 
+- 2. Moreover, they also said that the feedback given by the filter button on the NAVIGATION BAR on MAP page was not immediate. One of my friends expected immediate change of the view on the map when she clicked on one of the filters, but she did not see any change and got confused. The other friend suggested that if I don’t give immediate feedback, I could add an “apply” button under the filter bar to allow users to know they should click on “apply” before seeing any change on the map.
+- 3. The circles and filters on the MAP page still led to confusion. It might be clearer if I only show one circle at a time or revise the instruction to allow the page makes more sense. For instance, I could say that the default circles are “Cumulative Confirmed” cases and represented neighborhood-level data. I could also include more scale of data available under the filter button, such as cities, states, and nations. 
+- 4. Under Q&A page, I attached one of the “frequently asked question” section on top as the search result of “Mental Health”, the section did not mention mental health in the title and created confusion to my friend as she expected to see the words “Mental Health” as the first searching results. I need to revise the orders of the sections listed on the result page to stick the most relevant section names at top.
 
 # Revision:
 Based on feedbacks from both impression tests and cognitive walkthrough, I made a third revision on the prototype to solve the problems I listed above. 
@@ -80,6 +80,8 @@ https://www.figma.com/file/tT7DfvhYQKOVcNCD0sJYDX/DH150-AMANDA-RUAN?node-id=152%
 https://www.figma.com/proto/tT7DfvhYQKOVcNCD0sJYDX/DH150-AMANDA-RUAN?node-id=152%3A1910&scaling=scale-down
 
 # Reflection:
+
+
 
 
 
