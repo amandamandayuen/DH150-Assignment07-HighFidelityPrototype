@@ -15,11 +15,19 @@
 -	Search by keywords
 -	Search by microphone input
 
-# Example Screens:
-link
-
-# Graphic Interface Design and Accessibility Testing:
-- I chose the main color scheme based on the COVID-19 apps and websites I have explored, including CDC app, Apple app and CDC website. The main color scheme of the app was based on CDC website and app, using the colors grey, blue, purple, and green, which are also frequently used color combinations by the other health apps and websites. The color choices of the filter buttons in the navigation bar on map tool were adopted from the map tool on COVID-19Tracker app, as I tried to use the colors that are both visually contrasting and consistent. To meet the WCAG 2.00 AA level requirements, I used Chrome’s developer Audit tool to check the color contrast of the prototype, and the Audit report suggests that the color combinations meet sufficient contrast ratio. 
+# Example Screen Design and Wireflows:
+### Example Screen Design:
+The first line are examples of the three main screens 1)__Map__, 2)__Resources__, 3)__Q&A__. The bottom line are the examples of each main screen's sub screen.
+![screen design](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/Example%20frames.png)
+### Wireflow for all interactions:
+The frames that are highter than the rest of thier frame groups are the main screen of each feature
+![wireflow all](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/Wireflow%20All.png)
+### Wireflow for Task 1: Look for Active Confirmed Cases (Map Tool)
+![w1](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/Wireflow%201.png)
+### Wireflow for Task 2: Look for Testing Booths Information and Food Delivery Guidance (Resources Tool)
+![w2](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/Wireflow%202.png)
+### Wireflow for Task 3: Look for Mental Health Call Line and Submit a Question (Q&A Tool)
+![w3](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/Wireflow%203.png)
 
 # Wireflows and Prototypes
 
@@ -28,6 +36,10 @@ https://www.figma.com/file/tT7DfvhYQKOVcNCD0sJYDX/DH150-AMANDA-RUAN?node-id=0%3A
 
 ### Link to the Interactive Prototype (Wireframe 2.0): 
 https://www.figma.com/proto/tT7DfvhYQKOVcNCD0sJYDX/DH150-AMANDA-RUAN?node-id=1%3A2&scaling=scale-down
+
+# Graphic Interface Design and Accessibility Testing:
+- I chose the main color scheme based on the COVID-19 apps and websites I have explored, including CDC app, Apple app and CDC website. The main color scheme of the app was based on CDC website and app, using the colors grey, blue, purple, and green, which are also frequently used color combinations by the other health apps and websites. The color choices of the filter buttons in the navigation bar on map tool were adopted from the map tool on COVID-19Tracker app, as I tried to use the colors that are both visually contrasting and consistent. To meet the WCAG 2.00 AA level requirements, I used Chrome’s developer Audit tool to check the color contrast of the prototype, and the Audit report suggests that the color combinations meet sufficient contrast ratio. 
+![audit](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/Audit%20Result%20for%20Color.png)
 
 # Inclass and Outside of Class Impression Test
 Besides the in-class impression test with my first version of the prototype with my classmates, I also conducted an impression test outside of the class with a second revised version of the prototype with one of my friends, who also did not know about my project before. In summary, the main feedback from the in-class impression test was on the Resources page as my peers were a little bit confused whether the guidance information is listed by location, and they also wonder what could be done with the filter button. In addition, one classmate also mentioned that the ‘View More’ link was not consistent with other buttons and was not obvious. Another suggestion was on the phrasing of the buttons on my Q&A page as my classmates were confused about what they could do with those buttons. Based on the revised version, the main problem I had was with the Map tool, as the circles that covering the map areas first confused my friend. Another major problem I have was on the line spacing of the text, as the text was dense. Some of the quotes from my peers were listed below:
