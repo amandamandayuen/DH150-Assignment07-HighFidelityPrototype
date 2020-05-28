@@ -71,7 +71,7 @@ I tested the second revised version of the full prototype with two of my friends
 - 4. Under Q&A page, I attached one of the “frequently asked question” section on top as the search result of “Mental Health”, the section did not mention mental health in the title and created confusion to my friend as she expected to see the words “Mental Health” as the first searching results. I need to revise the orders of the sections listed on the result page to stick the most relevant section names at top.
 
 # Revision (Third Version):
-Based on feedbacks from both impression tests and cognitive walkthrough, I made a third revision on the prototype to solve the problems I listed above. 
+Based on feedbacks from both impression tests and cognitive walkthrough, I made a third revision on the prototype to solve the problems I listed above. I also added interactions points for the buttons on the bottom tap bar for all pages.
 ### Map Page Revision
 
 - __1)__ revise the content instruction on the main page, so viewing "All" cases is more intuitive when users first enter the page, __2)__ added a "All" filter button to the navigation bar, __3)__ changed the color of "Cumulative Confirmed" to yellow and "All" to purple, __4)__ deleted one of the two circles on the main page, so only one circle makes more sense. 
