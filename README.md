@@ -23,13 +23,13 @@ The first line are examples of the three main screens 1)__Map__, 2)__Resources__
 The frames that are highter than the rest of thier frame groups are the main screen of each feature
 ![wireflow all](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/Wireflow%20All.png)
 ### 3. Wireflow for Task 1: Look for Active Confirmed Cases in Westwood(Map Tool)
-I created multiple interactions points for the map so users can use different methods, such as 1) type in search bar, 2) microphone input search bar, 3) directly tap on map, 4) tap on "active confirmed" filter button) to look for the active confirmed cases in Westwood
+I created multiple interactions points for the map so users can use different methods, such as 1) type in search bar, 2) microphone input search bar, 3) directly tap on map, 4) tap on "active confirmed" filter button, to look for the active confirmed cases in Westwood.
 ![w1](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/Wireflow%201.png)
 ### 4. Wireflow for Task 2: Look for Testing Booths Information and Food Delivery Guidance (Resources Tool)
 Users can 1) type "Restaurant" in search bar, 2) tap "Food Services" button on main page, 3) tap "Testing Booths Near Me" to complete the task.
 ![w2](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/Wireflow%202.png)
 ### 5. Wireflow for Task 3: Look for Mental Health Call Line and Submit a Question (Q&A Tool)
-Users can either 1) look for the call line number through clicking frequently asked questions section or 2) type "Mental Health" in the search bar.
+Users can 1) look for the call line number through clicking frequently asked questions section, 2) type "Mental Health" in the search bar, and 3) submit question to complete the task.
 ![w3](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/Wireflow%203.png)
 
 # Wireflows and Prototypes
