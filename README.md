@@ -70,7 +70,7 @@ I tested the second revised version of the full prototype with two of my friends
 - 3. The circles and filters on the MAP page still led to confusion. It might be clearer if I only show one circle at a time or revise the instruction to allow the page makes more sense. For instance, I could say that the default circles are “Cumulative Confirmed” cases and represented neighborhood-level data. I could also include more scale of data available under the filter button, such as cities, states, and nations. 
 - 4. Under Q&A page, I attached one of the “frequently asked question” section on top as the search result of “Mental Health”, the section did not mention mental health in the title and created confusion to my friend as she expected to see the words “Mental Health” as the first searching results. I need to revise the orders of the sections listed on the result page to stick the most relevant section names at top.
 
-# Revision:
+# Revision (Third Version):
 Based on feedbacks from both impression tests and cognitive walkthrough, I made a third revision on the prototype to solve the problems I listed above. 
 ### Map Page Revision
 
