@@ -74,11 +74,11 @@ I tested the second revised version of the full prototype with two of my friends
 Based on feedbacks from both impression tests and cognitive walkthrough, I made a third revision on the prototype to solve the problems I listed above. 
 ### Map Page Revision
 
-- 1)/ revise the content instruction on the main page, so viewing "All" cases is more intuitive when users first enter the page, 2) added a "All" filter button to the navigation bar, 3) changed the color of "Cumulative Confirmed" to yellow and "All" to purple, 4) deleted one of the two circles on the main page, so only one circle makes more sense. 
+- __1)__ revise the content instruction on the main page, so viewing "All" cases is more intuitive when users first enter the page, __2)__ added a "All" filter button to the navigation bar, __3)__ changed the color of "Cumulative Confirmed" to yellow and "All" to purple, __4)__ deleted one of the two circles on the main page, so only one circle makes more sense. 
 
 ![r1](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/revise1.png)
 
-- 5) added a "Apply" button to the filter button so that users would know they need to click on apply in order to view changes. 6) added more filter options, including "Neighborhoods", "Cities", "States", "Nations", so that users can scale the map and filters based different geometrical scales. 7) linked the microphone demonstration to a successful search result.
+- __5)__ added a "Apply" button to the filter button so that users would know they need to click on apply in order to view changes. __6)__ added more filter options, including "Neighborhoods", "Cities", "States", "Nations", so that users can scale the map and filters based different geometrical scales. __7)__ linked the microphone demonstration to a successful search result.
 
 ![r2](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/revise2.png)
 
