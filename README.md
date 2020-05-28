@@ -82,6 +82,19 @@ Based on feedbacks from both impression tests and cognitive walkthrough, I made 
 
 ![r2](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/revise2.png)
 
+### Resources Page Revision
+
+- __1)__ increased the font size and line spacing for all the article bodies to try to increase readability of the text (top image and left of bottom image). __2)__ added division line between locations to the testing booth page. __3)__ changed the "view on map" button to "view all on map", so this would be clear for the viewers to comprehend that they can view all booths on map, while "view on map" might generate confusion that they could only see one location. 
+
+![r4](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/revise4.png)
+![r3](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/revise3.png)
+
+### Q&A Page Revision
+- __1)__ changed the "click here to submit a question" to "click here to ask a question" to reduce confusion about the function of the button. __2)__ changed the orders of sections on the search result page to put the most relevant sections (by title) at top. __3)__ changed the name of "frequently asked question" to "frequently asked question related to Mental Health" to reduce confusion. 
+
+![r5](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/revise5.png)
+
+
 ### Link to revision wireflows (Wireframe 3.0): 
 https://www.figma.com/file/tT7DfvhYQKOVcNCD0sJYDX/DH150-AMANDA-RUAN?node-id=152%3A0
 
