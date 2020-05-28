@@ -74,7 +74,7 @@ I tested the second revised version of the full prototype with two of my friends
 Based on feedbacks from both impression tests and cognitive walkthrough, I made a third revision on the prototype to solve the problems I listed above. 
 ### Map Page Revision
 
-- 1) revise the content instruction on the main page, so viewing "All" cases is more intuitive when users first enter the page, 2) added a "All" filter button to the navigation bar, 3) changed the color of "Cumulative Confirmed" to yellow and "All" to purple, 4) deleted one of the two circles on the main page, so only one circle makes more sense. 
+- 1)/ revise the content instruction on the main page, so viewing "All" cases is more intuitive when users first enter the page, 2) added a "All" filter button to the navigation bar, 3) changed the color of "Cumulative Confirmed" to yellow and "All" to purple, 4) deleted one of the two circles on the main page, so only one circle makes more sense. 
 
 ![r1](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/revise1.png)
 
