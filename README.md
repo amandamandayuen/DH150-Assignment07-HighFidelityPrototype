@@ -72,6 +72,15 @@ I tested the second revised version of the full prototype with two of my friends
 
 # Revision:
 Based on feedbacks from both impression tests and cognitive walkthrough, I made a third revision on the prototype to solve the problems I listed above. 
+#### Map Page Revision
+
+- 1)revise the content instruction on the main page, so viewing "All" cases is more intuitive when users first enter the page, 2)added a "All" filter button to the navigation bar, 3)changed the color of "Cumulative Confirmed" to yellow and "All" to purple, 4)deleted one of the two circles on the main page, so only one circle makes more sense. 
+
+![r1](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/revise1.png)
+
+- 5)added a "Apply" button to the filter button so that users would know they need to click on apply in order to view changes. 6)added more filter options, including "Neighborhoods", "Cities", "States", "Nations", so that users can scale the map and filters based different geometrical scales.7)linked the microphone demonstration to a successful search result.
+
+![r2](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/revise2.png)
 
 ### Link to revision wireflows (Wireframe 3.0): 
 https://www.figma.com/file/tT7DfvhYQKOVcNCD0sJYDX/DH150-AMANDA-RUAN?node-id=152%3A0
