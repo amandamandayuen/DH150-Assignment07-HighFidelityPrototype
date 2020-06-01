@@ -40,8 +40,6 @@ https://www.figma.com/file/tT7DfvhYQKOVcNCD0sJYDX/DH150-AMANDA-RUAN?node-id=0%3A
 ### Link to the Interactive Prototype (Wireframe 2.0): 
 https://www.figma.com/proto/tT7DfvhYQKOVcNCD0sJYDX/DH150-AMANDA-RUAN?node-id=1%3A2&scaling=scale-down
 
-![t]<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FtT7DfvhYQKOVcNCD0sJYDX%2FDH150-AMANDA-RUAN%3Fnode-id%3D1%253A2%26scaling%3Dmin-zoom&chrome=DOCUMENTATION" allowfullscreen></iframe>
-
 # Graphic Interface Design and Accessibility Testing:
 - I chose the main color scheme based on the COVID-19 apps and websites I have explored, including CDC app, Apple app and CDC website. The main color scheme of the app was based on CDC website and app, using the colors grey, blue, purple, and green, which are also frequently used color combinations by the other health apps and websites. The color choices of the filter buttons in the navigation bar on map tool were adopted from the map tool on COVID-19Tracker app, as I tried to use the colors that are both visually contrasting and consistent. To meet the WCAG 2.00 AA level requirements, I used Chrome’s developer Audit tool and also WebAIM to check the color contrast of the prototype, and the Audit report suggests that the color combinations meet sufficient contrast ratio. 
 ![audit](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/Audit%20Result%20for%20Color.png)
