@@ -13,7 +13,7 @@ Main tasks that the high-fidelity prototype support:
 - __Q&A tool__: Look for mental health online call line
 - __Resources tool__: Search for 1) local testing booths information and 2) latest restaurant guidance
 
-All taaks: 
+All tasks: 
 -	Access neighborhood-level COVID-19 cases information on the map
 -	Customize/Filter viewing cases options on the map
 -	Access COVID-19 testing booths information using both map and resource tools
