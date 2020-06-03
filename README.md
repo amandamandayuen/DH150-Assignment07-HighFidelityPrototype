@@ -7,6 +7,13 @@
 - During the prototyping process, I first used Figma to create the three main wireframes based on paper drafts, then I elaborated and added more wireframes around the three main wireframes to simulate the activities users need to complete. 
 
 # Tasks Supported by the Iteractive Prototype:
+
+Main tasks that the high-fidelity prototype support:
+- __Map tool__: Find the spread of active cases 1) near a user and 2) in a specific neighborhood (eg. Westwood)
+- __Q&A tool__: Look for mental health online call line
+- __Resources tool__: Search for 1) local testing booths information and 2) latest restaurant guidance
+
+All taaks: 
 -	Access neighborhood-level COVID-19 cases information on the map
 -	Customize/Filter viewing cases options on the map
 -	Access COVID-19 testing booths information using both map and resource tools
